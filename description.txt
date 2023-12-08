@@ -1,0 +1,1 @@
+When talking to an NPC, their happiness will be displayed using a meter to help visualize how happy they are!

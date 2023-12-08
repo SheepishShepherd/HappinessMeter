@@ -1,0 +1,3 @@
+displayName = Happiness Meter
+author = SheepishShepherd
+version = 0.1
